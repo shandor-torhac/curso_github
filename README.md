@@ -1,3 +1,3 @@
 # Bem vindo ao curso github
 
-DESCRICAO DO MEU REAME
+DESCRICAO DO MEU README
