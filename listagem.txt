@@ -1,0 +1,3 @@
+LISTAGEM DE TODOS USUARIOS DA NOSSA PLATAFORMA
+
+Buscas > nome > email e ID
